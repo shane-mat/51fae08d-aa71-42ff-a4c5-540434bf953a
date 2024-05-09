@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LISCalculatorTests", "TestProject\LISCalculatorTests.csproj", "{21950E59-2977-4A9E-8FCF-EAA2B0D630E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LISCalculatorTests", "LISCalculatorTests\LISCalculatorTests.csproj", "{21950E59-2977-4A9E-8FCF-EAA2B0D630E3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LISCalculator", "ClassLibrary\LISCalculator.csproj", "{280ED80F-3AAD-4371-B4F4-D08E3E092256}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LISCalculator", "LISCalculator\LISCalculator.csproj", "{280ED80F-3AAD-4371-B4F4-D08E3E092256}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

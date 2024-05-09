@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary\LISCalculator.csproj" />
+    <ProjectReference Include="..\LISCalculator\LISCalculator.csproj" />
   </ItemGroup>
 
   <ItemGroup>
